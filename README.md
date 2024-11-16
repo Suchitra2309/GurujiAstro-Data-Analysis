@@ -22,7 +22,7 @@ https://docs.google.com/spreadsheets/d/1o1fO6yb_o4Gk8CYl-6Vb92j02m0bQ--D/edit?us
 
 5. **Customer Segmentation**  
    - Segment customers for targeted marketing using demographic and behavioral insights.
-## Insights and Recommendations
+## Insights
 1. **Customer Segments:**
    - Premium (>1000): Highest transaction value (₹1,669.15) with 135 users, driving significant revenue.
    - High (500-1000): Strong mid-tier segment with ₹772.67 average transaction value and 318 users.
@@ -37,6 +37,24 @@ https://docs.google.com/spreadsheets/d/1o1fO6yb_o4Gk8CYl-6Vb92j02m0bQ--D/edit?us
 3. **Marketing Impact:**
    - Campaigns effectively segmented users, with strong conversions to the medium segment.
    - Opportunity to upgrade medium users to higher-value segments.
+
+## Recommendations
+1. **Customer Segment Strategy:**
+   - Focus on upgrading medium users to high/premium segments.
+   - Retain premium users with loyalty programs and clear value propositions.
+
+2. **Product Development:**
+   - Enhance offerings for medium users and create premium features for high-value segments.
+   - Maintain entry-level options for user acquisition.
+
+3. **Marketing Focus:**
+   - Target medium users for upgrades and run campaigns emphasizing premium services.
+
+4. **Feedback Utilization:**
+   - Use feedback to improve services; address low scores and leverage high scores to refine strategies.
+
+5. **Re-engagement Strategies:**
+   - Develop targeted campaigns with incentives to re-engage inactive users and track reactivation rates.
 
 ## Technologies Used
 - Python
